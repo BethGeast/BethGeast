@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hi, hei, ciao, olá 😎</strong></h1>
+<h1 align="center"><strong>Hi, hei, hallo, ciao, olá 😎</strong></h1>
 <h3 align="center">I'm Beth, Fullstack Developer, currently in the UK</h3>
 
 <h4><strong>About Me:</strong></h4>
@@ -14,8 +14,8 @@
 
 <h3>Check out some of my projects below:</h3>
 <ul>
-  <li><a href="https://www.gig-buddy.me" target="blank">GigBuddy</a></li>
-  <li><a href="https://dogbnb-32534be716ef.herokuapp.com" target="blank">DogBnB</a></li>
+  <li><a href="https://www.gig-buddy.me" target="blank">GigBuddy</a> - view the <a href="https://github.com/BethGeast/gig-buddy" target="blank">code</a></li>
+  <li><a href="https://dogbnb-32534be716ef.herokuapp.com" target="blank">DogBnB</a> - view the <a href="https://github.com/BethGeast/DogBnB" target="blank">code</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
