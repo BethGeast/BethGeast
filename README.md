@@ -14,8 +14,8 @@
 
 <h3>Check out some of my projects below:</h3>
 <ul>
-  <li><a href="https://www.gig-buddy.me">GigBuddy</a></li>
-  <li><a href="https://dogbnb-32534be716ef.herokuapp.com">DogBnB</a></li>
+  <li><a href="https://www.gig-buddy.me" target="_blank">GigBuddy</a></li>
+  <li><a href="https://dogbnb-32534be716ef.herokuapp.com" target="_blank">DogBnB</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
