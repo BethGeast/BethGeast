@@ -14,8 +14,9 @@
 
 <h3>Check out some of my projects below:</h3>
 <ul>
-  <li><a href="https://www.gig-buddy.me" target="blank">GigBuddy</a> - view the <a href="https://github.com/BethGeast/gig-buddy" target="blank">code</a></li>
-  <li><a href="https://dogbnb-32534be716ef.herokuapp.com" target="blank">DogBnB</a> - view the <a href="https://github.com/BethGeast/DogBnB" target="blank">code</a></li>
+  <li><a href="https://www.beth-codes.online" target-"_blank">BethCodes - personal portfolio website</a> - view the <a href="https://github.com/BethGeast/beth-codes" target="_blank">code</a></li>
+  <li><a href="https://www.gig-buddy.me" target="_blank">GigBuddy</a> - view the <a href="https://github.com/BethGeast/gig-buddy" target="_blank">code</a></li>
+  <li><a href="https://dogbnb-32534be716ef.herokuapp.com" target="_blank">DogBnB</a> - view the <a href="https://github.com/BethGeast/DogBnB" target="_blank">code</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
